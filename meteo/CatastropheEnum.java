@@ -1,0 +1,16 @@
+package meteo;
+public enum CatastropheEnum {
+    OURAGAN,
+    TORNADO,
+    INONDATIONS,
+    CYCLONE,
+    TEMPETE_DE_NEIGE,
+    SECHERESSE,
+    CANICULE,
+    ORAGE,
+    AVALANCHE,
+    TEMPETE_DE_VERGLAS,
+    ORAGE_DE_GRELE,
+    TEMPETE_TROPICALE,
+    FOUDRE
+}
